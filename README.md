@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hola, soy Jolver 👋
 
-<!--
-**jardila/jardila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Acerca de mí
+Soy un apasionado desarrollador de software con experiencia en Cloud, Python, Databases y otras tecnologías. Me encanta resolver problemas y aprender nuevas habilidades.
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades técnicas
+- Python, JavaScript, Java
+- Django, Flask, Node.js
+- Firebase, PostgreSQL, MongoDB
+- Docker, Kubernetes
+- GCP, Azure, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Lo que estoy aprendiendo
+Actualmente estoy mejorando mis habilidades en desarrollo de microservicios y cloud
+
+## 📫 Cómo contactarme
+Puedes contactarme en [jolverardila@gmail.com](mailto:jolverardila@gmail.com)
